@@ -1,18 +1,17 @@
 
 package mypack;
-import java.util.HashMap;
-import java.util.Map;
-
+import au.com.dius.pact.consumer.Pact;
+import au.com.dius.pact.consumer.PactProviderRuleMk2;
+import au.com.dius.pact.consumer.PactVerification;
+import au.com.dius.pact.consumer.dsl.PactDslWithProvider;
+import au.com.dius.pact.model.RequestResponsePact;
 import org.junit.Rule;
 import org.junit.Test;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
-import au.com.dius.pact.consumer.dsl.PactDslWithProvider;
-import au.com.dius.pact.consumer.junit.PactVerification;
-import au.com.dius.pact.core.model.annotations.Pact;
-import au.com.dius.pact.model.RequestResponsePact;
-import org.springframework.http.ResponseEntity;
-import au.com.dius.pact.consumer.PactProviderRuleMk2;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Consumerpact3
 {
@@ -21,7 +20,6 @@ public class Consumerpact3
 	@Pact(consumer="consumer_C") public RequestResponsePact createPact(PactDslWithProvider builder)
 	
 	{
-		System.out.println(mkprovider);
 		Map<String,String> headers=new HashMap<>();
 		headers.put("Content-Type","application/json");
 		return(builder.given("test GET")
