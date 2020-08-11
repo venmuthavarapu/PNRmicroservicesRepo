@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/mutha/OneDrive/Desktop/1.5tbackup/soapbackup.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/org.brisbane.soapexamples/src/test/soapbackup.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=org.brisbane.soapexamples/src\/main\/java"/>
+        <file path="/org.brisbane.soapexamples/.classpath"/>
+        <javaElement handleIdentifier="=org.brisbane.soapexamples/src\/test\/java"/>
+        <javaElement handleIdentifier="=org.brisbane.soapexamples/src\/main\/resources"/>
+        <javaElement handleIdentifier="=org.brisbane.soapexamples/src\/test\/resources"/>
+        <file path="/org.brisbane.soapexamples/.project"/>
+        <file path="/org.brisbane.soapexamples/Book1.xlsx"/>
+        <folder path="/org.brisbane.soapexamples/target"/>
+        <file path="/org.brisbane.soapexamples/integrationddt.xlsx"/>
+        <file path="/org.brisbane.soapexamples/pom.xml"/>
+        <folder path="/org.brisbane.soapexamples/src"/>
+    </selectedElements>
+</jardesc>
