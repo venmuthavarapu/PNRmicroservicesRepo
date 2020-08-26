@@ -1,0 +1,250 @@
+Afghanistan:Kabul:AFN
+Åland Islands:Mariehamn:EUR
+Albania:Tirana:ALL
+Algeria:Algiers:DZD
+American Samoa:Pago Pago:USD
+Andorra:Andorra la Vella:EUR
+Angola:Luanda:AOA
+Anguilla:The Valley:XCD
+Antarctica::AUD
+Antigua and Barbuda:Saint John's:XCD
+Argentina:Buenos Aires:ARS
+Armenia:Yerevan:AMD
+Aruba:Oranjestad:AWG
+Australia:Canberra:AUD
+Austria:Vienna:EUR
+Azerbaijan:Baku:AZN
+Bahamas:Nassau:BSD
+Bahrain:Manama:BHD
+Bangladesh:Dhaka:BDT
+Barbados:Bridgetown:BBD
+Belarus:Minsk:BYN
+Belgium:Brussels:EUR
+Belize:Belmopan:BZD
+Benin:Porto-Novo:XOF
+Bermuda:Hamilton:BMD
+Bhutan:Thimphu:BTN
+Bolivia (Plurinational State of):Sucre:BOB
+Bonaire, Sint Eustatius and Saba:Kralendijk:USD
+Bosnia and Herzegovina:Sarajevo:BAM
+Botswana:Gaborone:BWP
+Bouvet Island::NOK
+Brazil:Brasília:BRL
+British Indian Ocean Territory:Diego Garcia:USD
+United States Minor Outlying Islands::USD
+Virgin Islands (British):Road Town:null
+Virgin Islands (U.S.):Charlotte Amalie:USD
+Brunei Darussalam:Bandar Seri Begawan:BND
+Bulgaria:Sofia:BGN
+Burkina Faso:Ouagadougou:XOF
+Burundi:Bujumbura:BIF
+Cambodia:Phnom Penh:KHR
+Cameroon:Yaoundé:XAF
+Canada:Ottawa:CAD
+Cabo Verde:Praia:CVE
+Cayman Islands:George Town:KYD
+Central African Republic:Bangui:XAF
+Chad:N'Djamena:XAF
+Chile:Santiago:CLP
+China:Beijing:CNY
+Christmas Island:Flying Fish Cove:AUD
+Cocos (Keeling) Islands:West Island:AUD
+Colombia:Bogotá:COP
+Comoros:Moroni:KMF
+Congo:Brazzaville:XAF
+Congo (Democratic Republic of the):Kinshasa:CDF
+Cook Islands:Avarua:NZD
+Costa Rica:San José:CRC
+Croatia:Zagreb:HRK
+Cuba:Havana:CUC
+Curaçao:Willemstad:ANG
+Cyprus:Nicosia:EUR
+Czech Republic:Prague:CZK
+Denmark:Copenhagen:DKK
+Djibouti:Djibouti:DJF
+Dominica:Roseau:XCD
+Dominican Republic:Santo Domingo:DOP
+Ecuador:Quito:USD
+Egypt:Cairo:EGP
+El Salvador:San Salvador:USD
+Equatorial Guinea:Malabo:XAF
+Eritrea:Asmara:ERN
+Estonia:Tallinn:EUR
+Ethiopia:Addis Ababa:ETB
+Falkland Islands (Malvinas):Stanley:FKP
+Faroe Islands:Tórshavn:DKK
+Fiji:Suva:FJD
+Finland:Helsinki:EUR
+France:Paris:EUR
+French Guiana:Cayenne:EUR
+French Polynesia:Papeet?:XPF
+French Southern Territories:Port-aux-Français:EUR
+Gabon:Libreville:XAF
+Gambia:Banjul:GMD
+Georgia:Tbilisi:GEL
+Germany:Berlin:EUR
+Ghana:Accra:GHS
+Gibraltar:Gibraltar:GIP
+Greece:Athens:EUR
+Greenland:Nuuk:DKK
+Grenada:St. George's:XCD
+Guadeloupe:Basse-Terre:EUR
+Guam:Hagåtña:USD
+Guatemala:Guatemala City:GTQ
+Guernsey:St. Peter Port:GBP
+Guinea:Conakry:GNF
+Guinea-Bissau:Bissau:XOF
+Guyana:Georgetown:GYD
+Haiti:Port-au-Prince:HTG
+Heard Island and McDonald Islands::AUD
+Holy See:Rome:EUR
+Honduras:Tegucigalpa:HNL
+Hong Kong:City of Victoria:HKD
+Hungary:Budapest:HUF
+Iceland:Reykjavík:ISK
+India:New Delhi:INR
+Indonesia:Jakarta:IDR
+Côte d'Ivoire:Yamoussoukro:XOF
+Iran (Islamic Republic of):Tehran:IRR
+Iraq:Baghdad:IQD
+Ireland:Dublin:EUR
+Isle of Man:Douglas:GBP
+Israel:Jerusalem:ILS
+Italy:Rome:EUR
+Jamaica:Kingston:JMD
+Japan:Tokyo:JPY
+Jersey:Saint Helier:GBP
+Jordan:Amman:JOD
+Kazakhstan:Astana:KZT
+Kenya:Nairobi:KES
+Kiribati:South Tarawa:AUD
+Kuwait:Kuwait City:KWD
+Kyrgyzstan:Bishkek:KGS
+Lao People's Democratic Republic:Vientiane:LAK
+Latvia:Riga:EUR
+Lebanon:Beirut:LBP
+Lesotho:Maseru:LSL
+Liberia:Monrovia:LRD
+Libya:Tripoli:LYD
+Liechtenstein:Vaduz:CHF
+Lithuania:Vilnius:EUR
+Luxembourg:Luxembourg:EUR
+Macao::MOP
+Macedonia (the former Yugoslav Republic of):Skopje:MKD
+Madagascar:Antananarivo:MGA
+Malawi:Lilongwe:MWK
+Malaysia:Kuala Lumpur:MYR
+Maldives:Malé:MVR
+Mali:Bamako:XOF
+Malta:Valletta:EUR
+Marshall Islands:Majuro:USD
+Martinique:Fort-de-France:EUR
+Mauritania:Nouakchott:MRO
+Mauritius:Port Louis:MUR
+Mayotte:Mamoudzou:EUR
+Mexico:Mexico City:MXN
+Micronesia (Federated States of):Palikir:null
+Moldova (Republic of):Chi?in?u:MDL
+Monaco:Monaco:EUR
+Mongolia:Ulan Bator:MNT
+Montenegro:Podgorica:EUR
+Montserrat:Plymouth:XCD
+Morocco:Rabat:MAD
+Mozambique:Maputo:MZN
+Myanmar:Naypyidaw:MMK
+Namibia:Windhoek:NAD
+Nauru:Yaren:AUD
+Nepal:Kathmandu:NPR
+Netherlands:Amsterdam:EUR
+New Caledonia:Nouméa:XPF
+New Zealand:Wellington:NZD
+Nicaragua:Managua:NIO
+Niger:Niamey:XOF
+Nigeria:Abuja:NGN
+Niue:Alofi:NZD
+Norfolk Island:Kingston:AUD
+Korea (Democratic People's Republic of):Pyongyang:KPW
+Northern Mariana Islands:Saipan:USD
+Norway:Oslo:NOK
+Oman:Muscat:OMR
+Pakistan:Islamabad:PKR
+Palau:Ngerulmud:(none)
+Palestine, State of:Ramallah:ILS
+Panama:Panama City:PAB
+Papua New Guinea:Port Moresby:PGK
+Paraguay:Asunción:PYG
+Peru:Lima:PEN
+Philippines:Manila:PHP
+Pitcairn:Adamstown:NZD
+Poland:Warsaw:PLN
+Portugal:Lisbon:EUR
+Puerto Rico:San Juan:USD
+Qatar:Doha:QAR
+Republic of Kosovo:Pristina:EUR
+Réunion:Saint-Denis:EUR
+Romania:Bucharest:RON
+Russian Federation:Moscow:RUB
+Rwanda:Kigali:RWF
+Saint Barthélemy:Gustavia:EUR
+Saint Helena, Ascension and Tristan da Cunha:Jamestown:SHP
+Saint Kitts and Nevis:Basseterre:XCD
+Saint Lucia:Castries:XCD
+Saint Martin (French part):Marigot:EUR
+Saint Pierre and Miquelon:Saint-Pierre:EUR
+Saint Vincent and the Grenadines:Kingstown:XCD
+Samoa:Apia:WST
+San Marino:City of San Marino:EUR
+Sao Tome and Principe:São Tomé:STD
+Saudi Arabia:Riyadh:SAR
+Senegal:Dakar:XOF
+Serbia:Belgrade:RSD
+Seychelles:Victoria:SCR
+Sierra Leone:Freetown:SLL
+Singapore:Singapore:BND
+Sint Maarten (Dutch part):Philipsburg:ANG
+Slovakia:Bratislava:EUR
+Slovenia:Ljubljana:EUR
+Solomon Islands:Honiara:SBD
+Somalia:Mogadishu:SOS
+South Africa:Pretoria:ZAR
+South Georgia and the South Sandwich Islands:King Edward Point:GBP
+Korea (Republic of):Seoul:KRW
+South Sudan:Juba:SSP
+Spain:Madrid:EUR
+Sri Lanka:Colombo:LKR
+Sudan:Khartoum:SDG
+Suriname:Paramaribo:SRD
+Svalbard and Jan Mayen:Longyearbyen:NOK
+Swaziland:Lobamba:SZL
+Sweden:Stockholm:SEK
+Switzerland:Bern:CHF
+Syrian Arab Republic:Damascus:SYP
+Taiwan:Taipei:TWD
+Tajikistan:Dushanbe:TJS
+Tanzania, United Republic of:Dodoma:TZS
+Thailand:Bangkok:THB
+Timor-Leste:Dili:USD
+Togo:Lomé:XOF
+Tokelau:Fakaofo:NZD
+Tonga:Nuku'alofa:TOP
+Trinidad and Tobago:Port of Spain:TTD
+Tunisia:Tunis:TND
+Turkey:Ankara:TRY
+Turkmenistan:Ashgabat:TMT
+Turks and Caicos Islands:Cockburn Town:USD
+Tuvalu:Funafuti:AUD
+Uganda:Kampala:UGX
+Ukraine:Kiev:UAH
+United Arab Emirates:Abu Dhabi:AED
+United Kingdom of Great Britain and Northern Ireland:London:GBP
+United States of America:Washington, D.C.:USD
+Uruguay:Montevideo:UYU
+Uzbekistan:Tashkent:UZS
+Vanuatu:Port Vila:VUV
+Venezuela (Bolivarian Republic of):Caracas:VEF
+Viet Nam:Hanoi:VND
+Wallis and Futuna:Mata-Utu:XPF
+Western Sahara:El Aaiún:MAD
+Yemen:Sana'a:YER
+Zambia:Lusaka:ZMW
+Zimbabwe:Harare:BWP

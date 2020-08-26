@@ -1,0 +1,95 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.magnitia</groupId>
+  <artifactId>org.magnitia.apitestsamples</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+<dependencies>
+
+   	<dependency>
+		 <groupId>io.rest-assured</groupId>
+	    <artifactId>rest-assured</artifactId>
+	    <version>4.2.0</version>
+	    <scope>test</scope>
+	</dependency>
+	
+	<dependency>
+	    <groupId>org.json</groupId>
+	    <artifactId>json</artifactId>
+	    <version>20190722</version>
+	</dependency>
+		<dependency>
+	    <groupId>com.fasterxml.jackson.core</groupId>
+	    <artifactId>jackson-databind</artifactId>
+	    <version>2.9.5</version>
+    </dependency>
+
+    
+    <dependency>
+	    <groupId>org.apache.poi</groupId>
+	    <artifactId>poi-ooxml</artifactId>
+	    <version>4.1.1</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>org.apache.axis2</groupId>
+	    <artifactId>axis2-kernel</artifactId>
+	    <version>1.7.9</version>
+	</dependency>
+
+
+	<dependency>
+	    <groupId>org.apache.axis2</groupId>
+	    <artifactId>axis2-adb</artifactId>
+	    <version>1.7.9</version>
+	</dependency>
+
+	<dependency>
+	    <groupId>org.apache.axis2</groupId>
+	    <artifactId>axis2-transport-http</artifactId>
+	    <version>1.7.9</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>org.apache.axis2</groupId>
+	    <artifactId>axis2-transport-local</artifactId>
+	    <version>1.7.9</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>com.github.tomakehurst</groupId>
+	    <artifactId>wiremock-jre8</artifactId>
+	    <version>2.27.0</version>
+	    <scope>test</scope>
+    </dependency>
+    
+	<dependency>
+		<groupId>com.github.tomakehurst</groupId>
+		<artifactId>wiremock-standalone</artifactId>
+		<version>2.19.0</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>mysql</groupId>
+	    <artifactId>mysql-connector-java</artifactId>
+	    <version>8.0.19</version>
+    </dependency>
+  <dependency>
+	    <groupId>org.mongodb</groupId>
+	    <artifactId>mongodb-driver</artifactId>
+	    <version>3.12.6</version>
+</dependency>
+
+ <dependency>
+	    <groupId>ch.qos.logback</groupId>
+	    <artifactId>logback-classic</artifactId>
+	    <version>1.2.3</version>
+</dependency>
+    <dependency>
+        <groupId>com.querydsl</groupId>
+        <artifactId>querydsl-mongodb</artifactId>
+        <version>4.1.3</version>
+    </dependency>
+
+</dependencies>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97" started-at="2020-08-23T22:52:44 AEST" finished-at="2020-08-23T22:52:44 AEST">
+    <groups>
+      <group name="smoketest">
+        <method signature="FrameworkanaotationDepends.method1()[pri:1, instance:mypack.FrameworkanaotationDepends@34cd072c]" name="method1" class="mypack.FrameworkanaotationDepends"/>
+        <method signature="FrameworkanaotationDepends.method2()[pri:2, instance:mypack.FrameworkanaotationDepends@34cd072c]" name="method2" class="mypack.FrameworkanaotationDepends"/>
+        <method signature="FrameworkanaotationDepends.method3()[pri:3, instance:mypack.FrameworkanaotationDepends@34cd072c]" name="method3" class="mypack.FrameworkanaotationDepends"/>
+      </group> <!-- smoketest -->
+    </groups>
+    <test name="Default test" duration-ms="97" started-at="2020-08-23T22:52:44 AEST" finished-at="2020-08-23T22:52:44 AEST">
+      <class name="mypack.FrameworkanaotationDepends">
+        <test-method status="PASS" signature="method1()[pri:1, instance:mypack.FrameworkanaotationDepends@34cd072c]" name="method1" duration-ms="14" started-at="2020-08-23T22:52:44 AEST" finished-at="2020-08-23T22:52:44 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:2, instance:mypack.FrameworkanaotationDepends@34cd072c]" name="method2" duration-ms="1" started-at="2020-08-23T22:52:44 AEST" depends-on-methods="mypack.FrameworkanaotationDepends.method1" finished-at="2020-08-23T22:52:44 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:3, instance:mypack.FrameworkanaotationDepends@34cd072c]" name="method3" duration-ms="3" started-at="2020-08-23T22:52:44 AEST" depends-on-methods="mypack.FrameworkanaotationDepends.method1" finished-at="2020-08-23T22:52:44 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+      </class> <!-- mypack.FrameworkanaotationDepends -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

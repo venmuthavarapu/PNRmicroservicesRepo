@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/mutha/OneDrive/Desktop/1.5tbackup/apibackup.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/org.brisbane.soapexamples/src/test/apibackup.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/org.magnitia.apitestsamples/HSSFWorkbook.xls"/>
+        <file path="/org.magnitia.apitestsamples/Test2.XLS"/>
+        <file path="/org.magnitia.apitestsamples/.classpath"/>
+        <file path="/org.magnitia.apitestsamples/sample1x.xlsx"/>
+        <file path="/org.magnitia.apitestsamples/XSSFWorkbook.xlsx"/>
+        <file path="/org.magnitia.apitestsamples/regbook.xlsx"/>
+        <file path="/org.magnitia.apitestsamples/XSSFWorkbook.txt"/>
+        <javaElement handleIdentifier="=org.magnitia.apitestsamples/src\/test\/java"/>
+        <file path="/org.magnitia.apitestsamples/mmm.txt"/>
+        <file path="/org.magnitia.apitestsamples/.project"/>
+        <file path="/org.magnitia.apitestsamples/pom.xml"/>
+        <file path="/org.magnitia.apitestsamples/sampleXSSFWorkbook.xlsx"/>
+        <folder path="/org.magnitia.apitestsamples/src"/>
+        <file path="/org.magnitia.apitestsamples/Test1.XLSX"/>
+        <javaElement handleIdentifier="=org.magnitia.apitestsamples/src\/main\/resources"/>
+        <file path="/org.magnitia.apitestsamples/samplexxx.xlsx"/>
+        <javaElement handleIdentifier="=org.magnitia.apitestsamples/src\/main\/java"/>
+        <file path="/org.magnitia.apitestsamples/countrycap.xlsx"/>
+        <file path="/org.magnitia.apitestsamples/org.magnitia.apitestsamples.iml"/>
+        <file path="/org.magnitia.apitestsamples/postbook.xlsx"/>
+        <file path="/org.magnitia.apitestsamples/authbook.xlsx"/>
+        <javaElement handleIdentifier="=org.magnitia.apitestsamples/src\/test\/resources"/>
+        <folder path="/org.magnitia.apitestsamples/target"/>
+        <file path="/org.magnitia.apitestsamples/Test25xlsxxssfworkbookex1dd.xlsx"/>
+        <file path="/org.magnitia.apitestsamples/sample1mmm.xlsx"/>
+    </selectedElements>
+</jardesc>

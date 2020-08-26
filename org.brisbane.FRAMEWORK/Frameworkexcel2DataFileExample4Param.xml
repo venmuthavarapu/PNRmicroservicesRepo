@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<test thread-count="5" name="Test1">
+  <parameter name="input1" value="Lakshmi "/>
+  <parameter name="input2" value="Kolli"/>
+     <classes>
+      <class name="mypack.FramaworkOptionalvalueMEANSdEFAULTvALUE"/>
+    </classes>
+  </test>
+
+<test thread-count="5" name="Test2">
+  <parameter name="input1" value="Nidvith "/>
+     <classes>
+      <class name="mypack.FramaworkOptionalvalueMEANSdEFAULTvALUE"/>
+    </classes>
+  </test>
+
+
+<test thread-count="5" name="Test3">
+     <classes>
+      <class name="mypack.FramaworkOptionalvalueMEANSdEFAULTvALUE"/>
+    </classes>
+  </test>
+
+
+
+</suite>

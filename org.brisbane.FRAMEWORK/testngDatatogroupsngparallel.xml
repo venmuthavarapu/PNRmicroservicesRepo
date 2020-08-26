@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" parallel="tests" thread-count="3"> 
+ 
+  <test name="Test1">
+  <groups>
+  <run>
+  <include name="ArithmeticOperations"/>
+  </run>
+  </groups>
+  <classes>
+      <class name="mypack.FrameworkanaotationDataToGroups"></class>
+  </classes>
+  </test> 
+
+  <test name="Test2">
+  <groups>
+  <run>
+  <include name="StringManipulations"/>
+  </run>
+  </groups>
+  <classes>
+      <class name="mypack.FrameworkanaotationDataToGroups"></class>
+  </classes>
+  </test> 
+
+</suite> 
